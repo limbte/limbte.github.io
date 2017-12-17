@@ -1,6 +1,7 @@
 .bckgrd{
-    background-image: url("../img/wood.jpg");
+    background-image: url("../img/sandeep.jpg");
     background-size: cover;
+    
 }
     
 .bodysize{
@@ -9,7 +10,7 @@
 }
 
 h1{
-        color: lightcyan;
+        color:white;
         text-align: center;
         font-size: 2.5vw;
         font-weight: 200;
