@@ -9,6 +9,9 @@
 }
 
 h1{
-    color: lightcyan;
-    text-align: center;
+        color: lightcyan;
+        text-align: center;
+        font-size: 2.5vw;
+        font-weight: 200;
+        
 }
