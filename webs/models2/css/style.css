@@ -1,0 +1,21 @@
+.bckgrd{
+    background-image: url("../img/wood.jpg");
+    background-size: cover;
+    /* opacity:0.6; */
+    z-index:1; 
+}
+    
+.bodysize{
+    height: 100vh;
+   
+}
+
+h1{
+    color:white;
+    
+    text-align: center;
+    font-size: 2.5vw;
+    font-weight: 200;
+    
+    
+}
